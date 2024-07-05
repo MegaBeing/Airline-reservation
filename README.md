@@ -46,7 +46,7 @@ Once the installation is complete, you can use the application as follows:
 
 1. Run the application:
     ```bash
-    python airline_reservation.py
+    python serious_main.py
     ```
 
 2. Use the GUI to make and manage airline reservations. The data will be saved in a file for persistence.
